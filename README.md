@@ -1,5 +1,5 @@
 ### Hello I'm seunghoon 👋
-I am studying to become a developer with design knowledge by majoring in interaction design at university.I 
+I am studying to become a developer with design knowledge by majoring in interaction design at university.
 
 <!--
 **seunghoonkim34/seunghoonkim34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
