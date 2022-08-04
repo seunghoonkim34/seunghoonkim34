@@ -1,4 +1,4 @@
-### Hello I'm Seunghoon Kim 👋
+### Hi I'm Seunghoon Kim 👋
 I am studying to become a developer with design knowledge by majoring in interaction design at university.
 
 <!--
